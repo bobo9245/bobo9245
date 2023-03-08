@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **ROKA**
 
-- 🌱 I’m currently learning **React, JavaScript, TypeScript, Flutter**
+- 🌱 I’m currently learning **React, JavaScript, and HTML**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
