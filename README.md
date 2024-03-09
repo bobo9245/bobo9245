@@ -1,9 +1,7 @@
 <h1 align="center">Hello 👋, I'm 서윤하</h1>
-<h3 align="center">열심히 공부를 하고 있는 군인입니다😂</h3>
 
-- 🔭 I’m currently working on **ROKA**
 
-- 🌱 I’m currently learning **React, JavaScript, and HTML**
+- 🌱 I’m currently learning **React, Flutter, React Native**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
