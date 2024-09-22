@@ -58,7 +58,7 @@
   <h3>😎 Projects 😎</h3>
   <ul>
     <h4 align='left'>2024.07~2024.08 <a href='https://www.notion.so/Main-Page-5a0152fdb9ff4c03a920ddfbc2c5cc2f?pvs=4'>LG Aimers 5기 참여</a></h4>
-    <h4 align='left'></h4>
+    <h4 align='left'>2024.03~2024.06 React와 BERT Model을 이용한 음악 플레이리스트 서비스 EMUDA 개발</h4>
     <h4 align='left'>2023.03~2023.08 React를 이용한 소속 부대 홈페이지 리뉴얼</h4>
     <h4 align='left'>2021.08~2022.04 React Native 이용한 스크롤 기반 마음챙김 어플리케이션 <a href='https://www.notion.so/Happy-Flight-9ae8d6193aa5412887bed5be40862774?pvs=4'>Happy Flight </a>개발 참여</h4>
   </ul>
