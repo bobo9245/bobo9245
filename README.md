@@ -63,6 +63,7 @@
 <div>
   <h3>🖥️ Experiences 🖥️</h3>
   <ul>
+    <h4 align='left'>2024.07~2024.08 <a href='https://www.notion.so/Main-Page-5a0152fdb9ff4c03a920ddfbc2c5cc2f?pvs=4'>LG Aimers 6기 참여(예정)</a></h4>  
     <h4 align='left'>2024.07~ 숭실대학교 소프트웨어학부 <a href='https://sites.google.com/view/vmllab'>VML</a> 학부연구생</h4>
     <h4 align='left'>2024.07~2024.08 <a href='https://www.notion.so/Main-Page-5a0152fdb9ff4c03a920ddfbc2c5cc2f?pvs=4'>LG Aimers 5기 참여</a></h4>
     <h4 align='left'>2024.03~ 숭실대학교 IT대학 학생회</h4>
