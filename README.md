@@ -76,6 +76,7 @@
 <div>
   <h3>😎 Projects 😎</h3>
   <ul>
+    <h4 align='left'>2024.03~2025.08 AI 기반 뉴스 요약 및 추천 서비스 Breifit에서 AI 모델 개발</h4>
     <h4 align='left'>2024.10~2025.01 Brain MRI 데이터 기반의 인지기능 검사 모델 개발</h4>
     <h4 align='left'>2024.09~2024.12 IDM-VTON을 이용한 2D to 3D Virtual Try-On 모델 개발</h4>
     <h4 align='left'>2024.03~2024.06 Bert Model을 이용한 음악 추천 서비스 EMUDA AI 개발</h4>
