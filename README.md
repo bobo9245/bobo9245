@@ -62,6 +62,7 @@
 <div>
   <h3>🖥️ Experiences 🖥️</h3>
   <ul>
+	<h4 align='left'>2025.07~2025.08 숭실대학교 소프트웨어학부 소프트웨어공모전 금상</h4>
     <h4 align='left'>2025.07~LG Aimers 7기 참여</h4>
     <h4 align='left'>2025.03~ 숭실대학교 소프트웨어학부 <a href='https://rpg-ai.org/'>RPG(Robust Perception Group)</a> 학부인턴</h4>
     <h4 align='left'>2025.01~2025.02 <a href='https://www.notion.so/Main-Page-5a0152fdb9ff4c03a920ddfbc2c5cc2f?pvs=4'>LG Aimers 6기 참여</a></h4>  
