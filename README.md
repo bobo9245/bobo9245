@@ -61,14 +61,16 @@
 <div>
   <h3>🖥️ Experiences 🖥️</h3>
   <ul>
+	<h4 align='left'>2025.04~2025.09 숭실대학교 캡스톤경진대회 장려상</h4>
 	<h4 align='left'>2025.07~2025.08 숭실대학교 소프트웨어학부 소프트웨어공모전 금상</h4>
+	<h4 align='left'>2025.07 USC-IMSC Summer Hackerthon 3위</h4>
     <h4 align='left'>2025.01~2025.02 <a href='https://www.notion.so/Main-Page-5a0152fdb9ff4c03a920ddfbc2c5cc2f?pvs=4'>LG Aimers 7기 참여</a></h4>  
     <h4 align='left'>2025.03~ 숭실대학교 소프트웨어학부 <a href='https://rpg-ai.org/'>RPG(Robust Perception Group)</a> 학부인턴</h4>
     <h4 align='left'>2025.01~2025.02 <a href='https://www.notion.so/Main-Page-5a0152fdb9ff4c03a920ddfbc2c5cc2f?pvs=4'>LG Aimers 6기 참여</a></h4>  
     <h4 align='left'>2024.07~2025.01 숭실대학교 소프트웨어학부 <a href='https://sites.google.com/view/vmllab'>VML</a> 학부인턴</h4>
-    <h4 align='left'>2024.07~2024.08 <a href='https://www.notion.so/Main-Page-5a0152fdb9ff4c03a920ddfbc2c5cc2f?pvs=4'>LG Aimers 5기 참여</a></h4>
+    <h4 align='left'>2024.07~2024.08 <a href='https://www.notion.so/Main-Page-5a0152fdb9ff4c03a920ddfbc2c5cc2f?pvs=4'>LG Aimers 5기 본선 진출</a></h4>
     <h4 align='left'>2024.03~2025.01 숭실대학교 IT대학 학생회</h4>
-    <h4 align='left'>2022.09~2022.10 제 1회 국방 AI 경진대회(MAICON) 참여</h4>
+    <h4 align='left'>2022.09~2022.10 제 1회 국방 AI 경진대회(MAICON) 본선 진출</h4>
     <h4 align='left'>2020.03~2022.02 숭실대학교 IT대학 학생회</h4>	  
   </ul>
 </div>
