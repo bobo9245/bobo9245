@@ -53,7 +53,6 @@
 </div>
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=bobo9245)](https://solved.ac/bobo9245)
-![Leetcode 프로필](https://leetcard.jacoblin.cool/bobo9245?theme=unicorn)
 
 
 <hr>
