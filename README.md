@@ -83,6 +83,7 @@
     <h4 align='left'>2024.09~2024.12 IDM-VTON을 이용한 2D to 3D Virtual Try-On 모델 개발</h4>
     <h4 align='left'>2024.03~2024.06 Bert Model을 이용한 음악 추천 서비스 EMUDA AI 개발</h4>
     <h4 align='left'>2024.03~2024.06 React를 이용한 음악 추천 서비스 EMUDA 프론트엔드 개발</h4>
+	<h4 align='left'>2022.10~2023.03 React를 이용한 사단 홈페이지 개발</h4>
     <h4 align='left'>2021.08~2022.04 React Native 이용한 스크롤 기반 마음챙김 어플리케이션 <a href='https://www.notion.so/Happy-Flight-9ae8d6193aa5412887bed5be40862774?pvs=4'>Happy Flight </a>개발 참여</h4>
   </ul>
 </div>
