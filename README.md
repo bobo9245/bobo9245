@@ -41,10 +41,7 @@
 <div>
   <h3>⭐️ Github Stats ⭐️</h3>
 </div>
-
 [![Yunha's github stats](https://github-readme-stats.vercel.app/api?username=bobo9245&count_private=true&custom_title=Yunha%27s%20github%20%F0%9F%91%80&bg_color=45,F896C2,92B9E6&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-
 <br>
 <hr>
 
@@ -78,6 +75,7 @@
   <h3>😎 Projects 😎</h3>
   <ul>
     <h4 align='left'>2024.03~2025.08 AI 기반 뉴스 요약 및 추천 서비스 Breifit에서 AI 모델 개발</h4>
+	<h4 align='left'>2024.10~2025.01 Cone-Beam CT Data 기반의 Point Cloud 치아 데이터 정합 모델 개발</h4>
     <h4 align='left'>2024.10~2025.01 Brain MRI 데이터 기반의 인지기능 검사 모델 개발</h4>
     <h4 align='left'>2024.09~2024.12 IDM-VTON을 이용한 2D to 3D Virtual Try-On 모델 개발</h4>
     <h4 align='left'>2024.03~2024.06 Bert Model을 이용한 음악 추천 서비스 EMUDA AI 개발</h4>
